@@ -43,7 +43,7 @@ module.exports = {
       firebase: {
         apiKey: 'AIzaSyBFYDRD_kp60p9e9Zpfn42YX3-FvTgBTus',
         authDomain: 'react-redux-firebase-exa-e18e5.firebaseapp.com',
-        databaseURL: 'https://react-redux-firebase-exa-e18e5.firebaseio.com',
+        databaseURL: 'react-redux-firebase-exa-e18e5.firebaseio.com',
         storageBucket: 'react-redux-firebase-exa-e18e5.appspot.com'
       },
       reduxFirebase: {
@@ -56,7 +56,7 @@ module.exports = {
       firebase: {
         apiKey: 'AIzaSyBFYDRD_kp60p9e9Zpfn42YX3-FvTgBTus',
         authDomain: 'react-redux-firebase-exa-e18e5.firebaseapp.com',
-        databaseURL: 'https://react-redux-firebase-exa-e18e5.firebaseio.com',
+        databaseURL: 'react-redux-firebase-exa-e18e5.firebaseio.com',
         storageBucket: 'react-redux-firebase-exa-e18e5.appspot.com'
       },
       reduxFirebase: {

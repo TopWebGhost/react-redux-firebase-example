@@ -116,8 +116,8 @@ export default class Home extends Component {
         <div className={classes.info}>
           <span>data loaded from</span>
           <span>
-            <a href="https://react-redux-firebase-exa-e18e5.firebaseio.com/">
-            react-redux-firebase-exa-e18e5.firebaseio.com
+            <a href="https://redux-firebasev3.firebaseio.com/">
+              redux-firebasev3.firebaseio.com
             </a>
           </span>
           <span style={{ marginTop: '2rem' }}>
